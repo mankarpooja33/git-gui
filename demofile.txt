@@ -1,2 +1,2 @@
-This is added demo data.
+This is added.
 Adding some data
